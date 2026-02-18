@@ -5,3 +5,6 @@ Built a Spam Detection system using NLP and Machine Learning. Applied TF-IDF vec
 ![image alt](https://github.com/AnkoshAde123/Spam-vs-Ham-Email-Classification-ML-Project/blob/376ceaa0a54c3cb3f473801585c3e874b42c3af2/ML1.png)
 
 ![image alt](https://github.com/AnkoshAde123/Spam-vs-Ham-Email-Classification-ML-Project/blob/4a37835b29cfac81e05623d3f07380fa7bf96db3/M2.png)
+
+
+![image alt](https://github.com/AnkoshAde123/Spam-vs-Ham-Email-Classification-ML-Project/blob/ddfed12104531690a46a9e44b5b98bace53ce035/ML6.png)
